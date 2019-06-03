@@ -1,10 +1,14 @@
+### [1.4.1] - 2019-06-02
+
+- Fix issue with services referencing entire modules and setting default properties to undefined.
+
 ### [1.4.0] - 2019-05-12
 
 - Add DevExpress import when it detects a template uses a DevExpress control.
 
 ### [1.3.1] - 2019-05-04
 
-- Add "Ctrl + Shift + P" command (SimonTest: Update License) to add/update SimonTest License. 
+- Add "Ctrl + Shift + P" command (SimonTest: Update License) to add/update SimonTest License.
 
 ### [1.3.0] - 2019-04-28
 
