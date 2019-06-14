@@ -1,3 +1,7 @@
+### [1.4.3] - 2019-06-14
+
+- Fix issue with direct imports in files.
+
 ### [1.4.1] - 2019-06-02
 
 - Fix issue with services referencing entire modules and setting default properties to undefined.
