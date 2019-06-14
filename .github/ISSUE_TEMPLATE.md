@@ -1,0 +1,1 @@
+Thank you for reporting an issue with SimonTest. When submitting an issue please include a snipet of code to reproduce the problem. Take the component file and delete everything not required to reproduce the error.
