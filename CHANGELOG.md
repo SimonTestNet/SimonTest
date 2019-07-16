@@ -1,3 +1,7 @@
+### [1.4.4] - 2019-07-15
+
+- Fix issue with not getting the stubbed parameter for methods in certain cases.
+
 ### [1.4.3] - 2019-06-14
 
 - Fix issue with direct imports in files.
