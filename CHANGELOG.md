@@ -1,3 +1,7 @@
+### [1.5.0] - 2019-07-21
+
+- Create better tests for HttpClient calls, using HttpClientTestingModule.
+
 ### [1.4.4] - 2019-07-15
 
 - Fix issue with not getting the stubbed parameter for methods in certain cases.
