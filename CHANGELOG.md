@@ -1,3 +1,7 @@
+### [1.5.1] - 2019-07-23
+
+- Fix issue with stubs used by the constructor.
+
 ### [1.5.0] - 2019-07-21
 
 - Create better tests for HttpClient calls, using HttpClientTestingModule.
