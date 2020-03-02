@@ -1,3 +1,15 @@
+### [1.8.2] - 2020-03-01
+
+- Import FormsModule if the template uses ngModel.
+
+### [1.6.0] - 2020-01-03
+
+- Use ng-cache-testing-module if it's in the project's package.json
+
+### [1.5.2] - 2019-08-05
+
+- Fix issue with unused imports.
+
 ### [1.5.1] - 2019-07-23
 
 - Fix issue with stubs used by the constructor.
