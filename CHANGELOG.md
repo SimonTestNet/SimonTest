@@ -1,3 +1,7 @@
+### [1.8.6] - 2020-03-15
+
+- Import RouterTestingModule if the template uses routerLink.
+
 ### [1.8.2] - 2020-03-01
 
 - Import FormsModule if the template uses ngModel.
