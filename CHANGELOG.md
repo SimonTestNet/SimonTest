@@ -1,3 +1,43 @@
+### [1.9.1] - 2021-10-15
+
+- Fix issue with unknown parameters
+
+### [1.9.0] - 2020-10-03
+
+- Use TestBed.inject for Angular 9+
+
+### [1.8.10] - 2020-09-07
+
+- Add line breaks before major sections of the test file
+
+### [1.8.9] - 2020-07-29
+
+- Don't include models in provider list
+
+### [1.8.8] - 2020-06-07
+
+- Fix issue calling prototype methods of dependencies.
+
+### [1.8.7] - 2020-05-15
+
+- Fix issue with property defaults of array of strings.
+
+### [1.8.6] - 2020-03-15
+
+- Import RouterTestingModule if the template uses routerLink.
+
+### [1.8.2] - 2020-03-01
+
+- Import FormsModule if the template uses ngModel.
+
+### [1.6.0] - 2020-01-03
+
+- Use ng-cache-testing-module if it's in the project's package.json
+
+### [1.5.2] - 2019-08-05
+
+- Fix issue with unused imports.
+
 ### [1.5.1] - 2019-07-23
 
 - Fix issue with stubs used by the constructor.
